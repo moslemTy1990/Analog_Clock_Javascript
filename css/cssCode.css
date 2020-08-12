@@ -1,0 +1,7 @@
+.video{
+    height: 200px;
+    width: 200px;
+
+    background: yellow;
+    border: red solid 5px;
+   }
